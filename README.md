@@ -83,7 +83,7 @@ source .venv/bin/activate
 
 ### 4\. Install Dependencies
 
-Install all required packages from the `requirements.txt` file:
+Install all required packages from the `pyproject.toml` file:
 
 ```bash
 uv sync
